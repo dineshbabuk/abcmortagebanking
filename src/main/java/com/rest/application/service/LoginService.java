@@ -1,4 +1,4 @@
-package com.rest.service;
+package com.rest.application.service;
 
 public interface LoginService {
 
